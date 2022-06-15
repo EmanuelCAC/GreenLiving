@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    --bs-gutter-x: 5rem;
+}
+
+
+/*Menu*/
+.navbar{
+    background-color: #82846d;
+}
+
+.navbar a, .navbar a:focus{
+    color: #ffffff; 
+}
+
+.navbar a:hover{
+    color: #e9f3bf; 
+}
+
+.dropdown-menu{
+    background-color: #82846d;
+}
+
+.dropdown-item:hover{
+    background-color: #646165;
+    border-radius: 5%;
+}
+
+.me-2{
+    border-radius: 0;
+}
+
+.botao{
+    background-color: #82846d;
+    border: 0;
+    border-radius: 25%;
+    width: 50px;
+    height: 40px;
+}
+
+.botao:hover{
+    background-color: #646165;
+}
+
+.botao:active:focus{
+    box-shadow: 0 0 0 0.25rem rgba(100, 97, 101, 0.5);
+}
+
+.lupa{
+    width: 30px;
+    height: 30px;
+}
+
+/*Cadastro*/
+.cadastro
+{
+    padding: 15px 0;
+    background-color: #e9f3bf;
+}
+
+.cadastro input[type=submit]
+{
+    width: 15%;
+    height: 30px;
+    border: 0;
+    background-color: white;
+    margin-left: 10px;
+    vertical-align: bottom;
+}
+
+.cadastro input[type=submit]:hover, .cadastro input[type=submit]:active
+{
+    color: #fafbf6;
+    background-color: #82846d;
+}
+
+.cadastro input[type=text]{
+    width: 200px;
+    height: 30px;
+    vertical-align: bottom;
+    margin-top: 7px;
+}
+
+/*Cards*/
+.color{
+    background-color: #f3f3f3;
+}
+
+.titulo h2{
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+    font-weight: 400;
+    color: #82846d;
+}
+
+.card{
+    border-radius: 0.25rem;
+    background-color: #82846d;
+    color: #ffffff;
+    font-size: 110%;
+}
+
+.card-2{
+    flex-direction: unset;
+}
+
+.p{
+    display: flex;
+}
+
+.p a{
+    margin-right: 10px;
+}
