@@ -6,9 +6,11 @@
 
 .row
 {
-    padding-left: 100px;
-    padding-right: 100px;
     --bs-gutter-x: 5rem;
+}
+
+.fundo{
+    background-color: #f3f3f3;
 }
 
 
@@ -59,6 +61,7 @@
     height: 30px;
 }
 
+
 /*Cadastro*/
 .cadastro
 {
@@ -89,19 +92,148 @@
     margin-top: 7px;
 }
 
-/*Cards*/
-.color{
+
+/*Sustentabilidade*/
+.titulo{
+    padding-top: 40px;
+    color: #82846d;
+    font-family: Arial;
+    text-align: center;
+}
+
+.titulo h1{
+    font-size: 60px;
+}
+
+.sub_titulo{
+    color: #82846d;
+    font-family: Arial;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.sub_titulo h1{
+    font-size: 35px;
+}
+
+.texto{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.paragrafo{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+/*Tirinhas*/
+.tirinha{
+    width: 400px;
+}   
+
+.carousel-inner{
+    text-align: center;
+}
+
+.carousel-control-next-icon{
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'><path d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/></svg>");
+}
+
+.carousel-control-prev-icon{
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'><path d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/></svg>");
+}
+
+/*Rodapé*/
+.rodapé{
+    background-color: #82846d;
+    margin-top: 40px
+}
+
+.rodapé h5{
+    color: #e9f3bf;
+    font-size: 30px;
+    line-height: 10px;
+}
+
+.rodapé hr{
+    color: #ffffff;
+    border-color: #ffffff;
+    height: 4px;
+    opacity: 100%;
+}
+
+.rodapé a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.p{
+    display: inline-flex;
+}
+
+.p a{
+    margin-right: 30px;
+}
+
+.p-3{
+    background-color: #e9f3bf;
+}
+
+.b{
+    line-height: 50px;
+}
+
+.redes{
+    text-align: center;
+}
+
+.redes a{
+    padding: 10px
+}
+
+.bi{
+    width: 32px;
+    height: 32px;
+}
+
+/*Sobre nós*/
+.sobre-nos{
     background-color: #f3f3f3;
 }
 
-.titulo h2{
+.titulo_sn{
+    display: flex; 
     text-align: center;
-    padding: 30px;
-    font-size: 50px;
-    font-weight: 400;
+    font-family: Arial;
+}
+
+.titulo_sn h1{
+    padding-top: 24px;
+    font-size: 60px;
     color: #82846d;
 }
 
+#sn{
+    width: 33%;
+    height: 120px;
+    background-color: #ffffff;
+}
+
+#subtitulo{
+    width: 67%;
+    height: 120px;
+    background-color: #e9f3bf;
+    text-align: center;
+}
+
+.membros{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/*cards*/
 .card{
     border-radius: 0.25rem;
     background-color: #82846d;
@@ -111,12 +243,4 @@
 
 .card-2{
     flex-direction: unset;
-}
-
-.p{
-    display: flex;
-}
-
-.p a{
-    margin-right: 10px;
 }
