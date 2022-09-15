@@ -19,6 +19,14 @@
     background-color: #82846d;
 }
 
+.navbar-nav .nav-link.active{
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link.active:hover{
+    color: #e9f3bf; 
+}
+
 .navbar a, .navbar a:focus{
     color: #ffffff; 
 }

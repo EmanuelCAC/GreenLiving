@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link href="css/style.css" rel="stylesheet">
 
     <title>GreenLiving  </title>
@@ -76,88 +76,6 @@
                 </div>
             </div> 
 
-            <!--cadastro-->
-            <section class="cadastro">
-                <div class="container">
-                    <div class="row text-center">
-                        <div class="col-md-6">
-                            <h2>Cadastre-se</h2>
-                        </div>
-
-                        <div class="col-md-6">
-                            <form method="post">
-                                <input type="text" name="nome"> <input type="submit">
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- cards -->
-            <!-- <section id="episodeos">   
-                <div class="container">
-                    <div class="titulo">
-                        <h2>Lançados Recentemente</h2>
-                    </div>
-                    <div class="row mb-5">
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/introducao.jpeg" class="card-img-top">
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/lixo.jpeg" class="card-img-top">
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/bio.jpeg" class="card-img-top">   
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>  
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/" class="card-img-top">
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/ener reno.jpeg" class="card-img-top">
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4">
-                            <div class="card">
-                                <img src="img/cul pop.jpeg" class="card-img-top">   
-                                <div class="card-body">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                </div>  
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-
             <section id="sustentabilidade">
                 <div class="container">
                     <div class="titulo">
@@ -195,6 +113,13 @@
                 </div>
             </section>
 
+            <!--Praticas Sustentáveis-->
+            <section id="praticas">
+                <div class="titulo">
+                    <h1>Praticas Sustentáveis</h1>
+                </div>
+            </section>
+
             <!--Tirinhas-->
             <section id="tirinhas">
                 <div class="titulo">
@@ -207,7 +132,7 @@
                         <img src="img/Tirinha1.png" class="tirinha">
                         </div>
                         <div class="carousel-item">
-                        <img src="img/Tirinha1.png" class="tirinha">
+                        <img src="img/Tirinha2.png" class="tirinha">
                         </div>
                         <div class="carousel-item">
                         <img src="img/Tirinha1.png" class="tirinha">
@@ -307,6 +232,6 @@
             </footer>
         </div>
     </body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 
 </html>
