@@ -1,2 +1,2 @@
-# PodGreen
-É um site com podcasts sobre sustentabilidade 
+# GreenLiving
+É um site sobre sustentabilidade 
