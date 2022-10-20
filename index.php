@@ -113,13 +113,6 @@
                 </div>
             </section>
 
-            <!--Praticas Sustentáveis-->
-            <section id="praticas">
-                <div class="titulo">
-                    <h1>Praticas Sustentáveis</h1>
-                </div>
-            </section>
-
             <!--Tirinhas-->
             <section id="tirinhas">
                 <div class="titulo">
