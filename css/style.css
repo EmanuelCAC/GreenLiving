@@ -16,32 +16,31 @@
 
 /*Menu*/
 .navbar{
-    background-color: #82846d;
+    background-color: #ffffff;
 }
 
 .navbar-nav .nav-link.active{
-    color: #ffffff;
+    color: #648418;
 }
 
 .navbar-nav .nav-link.active:hover{
-    color: #e9f3bf; 
+    color: #648418; 
 }
 
 .navbar a, .navbar a:focus{
-    color: #ffffff; 
+    color: #648418; 
 }
 
 .navbar a:hover{
-    color: #e9f3bf; 
+    color: #afbe73; 
 }
 
 .dropdown-menu{
-    background-color: #82846d;
+    background-color: #ffffff;
 }
 
 .dropdown-item:hover{
-    background-color: #646165;
-    border-radius: 5%;
+    background-color: #e9ecef;
 }
 
 .me-2{
@@ -49,7 +48,7 @@
 }
 
 .botao{
-    background-color: #82846d;
+    background-color: #648418;
     border: 0;
     border-radius: 25%;
     width: 50px;
@@ -57,11 +56,11 @@
 }
 
 .botao:hover{
-    background-color: #646165;
+    background-color: rgb(76, 102, 19);
 }
 
 .botao:active:focus{
-    box-shadow: 0 0 0 0.25rem rgba(100, 97, 101, 0.5);
+    box-shadow: 0 0 0 0.25rem rgb(100, 132, 24, 0.5);
 }
 
 .lupa{
@@ -69,42 +68,10 @@
     height: 30px;
 }
 
-
-/*Cadastro*/
-.cadastro
-{
-    padding: 15px 0;
-    background-color: #e9f3bf;
-}
-
-.cadastro input[type=submit]
-{
-    width: 15%;
-    height: 30px;
-    border: 0;
-    background-color: white;
-    margin-left: 10px;
-    vertical-align: bottom;
-}
-
-.cadastro input[type=submit]:hover, .cadastro input[type=submit]:active
-{
-    color: #fafbf6;
-    background-color: #82846d;
-}
-
-.cadastro input[type=text]{
-    width: 200px;
-    height: 30px;
-    vertical-align: bottom;
-    margin-top: 7px;
-}
-
-
 /*Sustentabilidade*/
 .titulo{
     padding-top: 40px;
-    color: #82846d;
+    color: #648418;
     font-family: Arial;
     text-align: center;
 }
@@ -114,7 +81,7 @@
 }
 
 .sub_titulo{
-    color: #82846d;
+    color: #648418;
     font-family: Arial;
     text-align: center;
     padding-bottom: 10px;
@@ -155,19 +122,19 @@
 
 /*Rodapé*/
 .rodapé{
-    background-color: #82846d;
+    background-color: #648418;
     margin-top: 40px
 }
 
 .rodapé h5{
-    color: #e9f3bf;
+    color: #f3f3f3;
     font-size: 30px;
     line-height: 10px;
 }
 
 .rodapé hr{
-    color: #ffffff;
-    border-color: #ffffff;
+    color: #f3f3f3;
+    border-color: #f3f3f3;
     height: 4px;
     opacity: 100%;
 }
@@ -175,6 +142,10 @@
 .rodapé a{
     text-decoration: none;
     font-size: 20px;
+}
+
+.text-r{
+    color: #f3f3f3;
 }
 
 .p{
@@ -186,7 +157,7 @@
 }
 
 .p-3{
-    background-color: #e9f3bf;
+    background-color: #ffffff;
 }
 
 .b{
@@ -220,7 +191,7 @@
 .titulo_sn h1{
     padding-top: 24px;
     font-size: 60px;
-    color: #82846d;
+    color: #646165;
 }
 
 #sn{
@@ -232,7 +203,7 @@
 #subtitulo{
     width: 67%;
     height: 120px;
-    background-color: #e9f3bf;
+    background-color: #DFDCDC;
     text-align: center;
 }
 
@@ -244,7 +215,7 @@
 /*cards*/
 .card{
     border-radius: 0.25rem;
-    background-color: #82846d;
+    background-color: #648418;
     color: #ffffff;
     font-size: 110%;
 }
