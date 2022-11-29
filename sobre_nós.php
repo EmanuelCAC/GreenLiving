@@ -71,14 +71,14 @@
                         <div class="row mb-5">
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">
+                                    <img src="img/barbara.jpg" class="card-img-top">
                                     <div class="card-body">
                                         <p class="card-text"> Bárbara Vitória Conceição Ferreira is a computer
                                             science student at the Federal Institute of Education, Science and
                                             Technology of São Paulo - Campus Caraguatatuba. She's responsible
                                             for the entire written part of the Green Living website, she's
-                                            17 years old, likes to study mathematics and explore different areas
-                                            of knowledge. She adopts positivity in her daily life and is a big
+                                            17 years old, she likes to study mathematics and explore different areas
+                                            of knowledge. She adopts positivity in her daily life and she's a big
                                             dreamer. Happiness and academic/personal fulfillment are her greatest
                                             aspirations.
                                         </p>
@@ -88,15 +88,15 @@
 
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">
+                                    <img src="img/emanuel.jpeg" class="card-img-top">
                                     <div class="card-body">
                                         <p class="card-text"> Emanuel da Costa Andrade Cardoso is a computer
                                             science student at the Federal Institute of Education, Science and
-                                            Technology os São Paulo - Caraguatatuba Campus and worked as a
+                                            Technology os São Paulo - Caraguatatuba Campus and he worked as a
                                             full-stack programmer in the production of Green Living website. with
-                                            18 years, he's a really calm, rational person and have a deep passion
-                                            about the field of technology. He's also experienced with mathematics,
-                                            having won two OBMEP bronze medals, in addiction he's also intrested
+                                            18 years old, he's a really calm, rational person and has a deep passion
+                                            about the field of technology. He's also experienced in mathematics,
+                                            having won two OBMEP bronze medals, in addition he's also intrested
                                             in various activities such as playing the piano and cello, drawing,
                                             playing volleyball and video games. 
                                         </p>
@@ -106,13 +106,13 @@
 
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">   
+                                    <img src="img/higor.jpeg" class="card-img-top">   
                                     <div class="card-body">
                                         <p class="card-text"> Higor Reis Rodrigues is a computer science student
                                             at the Federal Institute of Education, Science and Technology of São
                                             Paulo. He's responsible for assisting in the visual development
                                             of the site and in creating the visual identity of the company Green
-                                            Living. At 17 years old, his mission is to make access to knowledge
+                                            Living. At 17 years old, his mission is to make the access to knowledge
                                             of sustainable practices objective and practical. He likes to listen
                                             to music and enjoy a sunny day with friends.</p>
                                     </div>  
@@ -122,24 +122,25 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">
+                                    <img src="img/julia.jpeg" class="card-img-top">
                                     <div class="card-body">
-                                        <p class="card-text"> - Nome: Julia Noveline Britto<br/>
-                                        - Estudante de Técnico em Informática</p>
+                                        <p class="card-text"> Julia Noveline Britto is studying to be a computer technician
+                                         and has alredy taken some courses like interpersonal relationships. She's a very 
+                                         active person and enjoys group activities</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">
+                                    <img src="img/marcelly.jpeg" class="card-img-top">
                                     <div class="card-body">
                                         <p class="card-text"> Marcelly Santos, like the other team members, is a
                                             computer science student at the Federal Institute of Education,
                                             Science and Technology of São Paulo - Campus Caraguatatuba. She's
                                             responsible for the illustrations, design and administration of the
                                             social networks of the company Green Living. Marcelly is 17 years
-                                            old, enjoys painting, reading books, practicing her favorite
+                                            old, she enjoys painting, reading books, practicing her favorite
                                             instruments and taking care of her pets. She seeks to be an always
                                             pleasant and a honest person, happy with her choices.</p>
                                     </div>
@@ -148,13 +149,13 @@
 
                             <div class="col-sm-4">
                                 <div class="card">
-                                    <img src="img/..." class="card-img-top">   
+                                    <img src="img/victor.jpeg" class="card-img-top">   
                                     <div class="card-body">
                                         <p class="card-text"> Victor Leardini is a senior computer science student
                                             at the Federal Institute of Education, Science and Technology of São
-                                            Paulo - Caraguatatuba Campus and works as a designer, supervisor,
+                                            Paulo - Caraguatatuba Campus and he works as a designer, supervisor,
                                             and programming assistant at the company Green Living. He's currently
-                                            17 years old and has great plans for the future, such as helping to 
+                                            17 years old and he has great plans for the future, such as helping to 
                                             change the world, studying psychology, and raising a family that will be
                                             proud of who he is. He uses his knowledge to help everyone who needs it,
                                             and intends to continue doing this, becoming more and more someone who
@@ -171,6 +172,15 @@
                 <div class="titulo_sn">
                     <h1 id="sn">Sobre Nós</h1>
                     <h1 id="subtitulo">Empresa</h1>
+                </div>
+                <div class="container">
+                    <div class="texto">
+                        <p class="paragrafo_sb">
+                        The Company's mission is to raise awareness and inform society about sustentability
+                        and, consequently, help change the world for the better. After we lauch our website
+                        the team will dissolve and each member will go his own way.
+                        </p>
+                    </div>
                 </div>
 
                 <!--rodapé-->

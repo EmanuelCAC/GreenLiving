@@ -212,6 +212,14 @@
     padding-bottom: 60px;
 }
 
+.paragrafo_sb{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 30px;   
+}
+
 /*cards*/
 .card{
     border-radius: 0.25rem;
